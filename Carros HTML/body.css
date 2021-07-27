@@ -1,0 +1,200 @@
+#conteudo
+{
+    margin-top: 3.5%;
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px 5px black;
+    background-color: rgb(0, 0, 0, 0.6);
+    border: thin silver solid;
+}
+
+#preco
+{
+    position: relative;
+    vertical-align: center;
+    left: 26.4%;
+    margin: 3.5%;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(71, 71, 71, 0.5);
+    width: 40%;
+    height: 1%;
+    border: thin silver solid;
+    
+}
+
+button.botao {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #ffffff;
+	padding: 10px 20px;
+	background: -webkit-gradient(
+		linear, left top, left bottom,
+		from(#a3a3a3),
+		color-stop(0.50, #3b3b3b),
+		color-stop(0.50, #242424),
+		to(#000000));
+	background: linear-gradient(
+		top,
+		#a3a3a3 0%,
+		#3b3b3b 50%,
+		#242424 50%,
+		#000000);
+	border-radius: 10px;
+	border: 1px solid #000000;
+	box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.6);
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,1),
+		0px 1px 0px rgba(255,255,255,0.2);
+}
+
+button.botao:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #ffffff;
+	padding: 10px 20px;
+	background: -webkit-gradient(
+		linear, left top, left bottom,
+		from(#000000),
+		color-stop(0.50, #242424),
+		color-stop(0.50, #3b3b3b),
+		to(#a3a3a3));
+	background: linear-gradient(
+		top,
+		#000000 0%,
+		#242424 50%,
+		#3b3b3b 50%,
+		#a3a3a3);
+	border-radius: 10px;
+	border: 1px solid #000000;
+	box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.6);
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,1),
+		0px 1px 0px rgba(255,255,255,0.2);
+}
+
+
+figure #imagem1
+{
+    width: 30%;
+    border: thin silver solid;
+    display: flex;
+    justify-content: space-between;
+    min-width: 97%;
+    padding: 1.5%;
+    background-color: rgb(0, 0, 0, 0.7);
+}
+
+#imagem1 p
+{
+    margin: 30px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+figure #imagem2
+{
+    width: 30%;
+    border: thin silver solid;
+    display: flex;
+    justify-content: space-between;
+    min-width: 97%;
+    padding: 1.5%;
+    background-color: rgb(0, 0, 0, 0.7);
+}
+
+#imagem2 p
+{
+    margin: 30px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+figure #imagem3
+{
+    width: 30%;
+    border: thin silver solid;
+    display: flex;
+    justify-content: space-between;
+    min-width: 97%;
+    padding: 1.5%;
+    background-color: rgb(0, 0, 0, 0.7);
+}
+
+#imagem3 p
+{
+    margin: 30px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+figure #imagem4
+{
+    width: 30%;
+    border: thin silver solid;
+    display: flex;
+    justify-content: space-between;
+    min-width: 97%;
+    padding: 1.5%;
+    background-color: rgb(0, 0, 0, 0.7);
+}
+
+#imagem4 p
+{
+    margin: 30px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+figure #imagem5
+{
+    width: 30%;
+    border: thin silver solid;
+    display: flex;
+    justify-content: space-between;
+    min-width: 97%;
+    padding: 1.5%;
+    background-color: rgb(0, 0, 0, 0.7);
+}
+
+#imagem5 p
+{
+    margin: 30px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+figure #imagem6
+{
+    width: 30%;
+    border: thin silver solid;
+    display: flex;
+    justify-content: space-between;
+    min-width: 97%;
+    padding: 1.5%;
+    background-color: rgb(0, 0, 0, 0.7);
+}
+
+#imagem6 p
+{
+    margin: 30px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+figure figcaption
+{
+    color: white;
+    font-size: 20px;
+}

@@ -1,0 +1,109 @@
+#logo
+{
+    right: 88%;
+    position: absolute;
+    margin-top: -2%;
+}
+
+#logo2
+{
+    left: 88%;
+    position: absolute;
+    margin-top: -2%;
+}
+
+#corpo
+{
+    background-image: url("img/wallpaper.jpg");
+    background-repeat: round;
+}
+
+#corpo li
+{
+    color: white;
+}
+
+nav#menu
+{
+    display: block;
+} 
+
+nav#menu ul
+{
+    list-style: none;
+    vertical-align: center;
+    text-align: center;
+    box-shadow: 1px 1px 3px white;
+    margin: 2px;
+    padding: 20px;
+    border-radius: 5px;;
+    background-image: url("img/fundomenu.jpg");
+    margin: 0 auto;
+    position: static;
+}
+
+nav#menu a
+{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+nav#menu a:hover
+{
+    color: #cecece;
+    text-decoration: none;
+}
+
+nav#menu li
+{       
+    display: inline;
+    font-size: 20px;
+    margin: 2px;
+    padding: 10px;
+    box-shadow: 1px 1px 5px rgb(255, 255, 255);
+    text-shadow: 1px 1px 5px #696966;
+    border-radius: 7px;
+    background-color: black;
+}
+
+nav#menu li:hover
+{       
+    display: inline;
+    margin: 2px;
+    padding: 20px;
+    box-shadow: 1px 1px 8px white;
+    opacity: 0.9;
+    transition: 0.5s;
+}
+
+#conteudo p
+{
+    font-size: 25px;
+    margin: 30px;
+}
+
+footer#rodape
+{
+	clear: both;
+	border-top: 2px white;
+    box-shadow: 1px 1px 8px white;
+    background-image: url("img/fundomenu.jpg");
+}
+
+footer#rodape a#link
+{
+	color: rgb(110, 110, 255);
+}
+
+footer#rodape a#link:hover
+{
+	color: rgb(255, 96, 96);
+}
+
+footer#rodape p
+{
+	text-align: center;
+	font-size: 9pt;
+	color: white;
+	font-family: sans-serif;
+}
